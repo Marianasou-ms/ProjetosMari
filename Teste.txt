@@ -1,0 +1,3 @@
+Para abrir uma pasta pelo terminal usar o comando "cd"
+
+offtopic: a master é a branch princilap do projeto que iria pra prod. 
